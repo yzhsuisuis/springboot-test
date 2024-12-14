@@ -1,0 +1,54 @@
+24-12-14.20:43:31.519 [main            ] INFO  Application            - Starting Application using Java 1.8.0_181 on yangzihesLaptop with PID 40448 (D:\jdk8\springboot-test\test-web\target\classes started by yangz in D:\jdk8\springboot-test)
+24-12-14.20:43:31.523 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+24-12-14.20:43:32.546 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8080 (http)
+24-12-14.20:43:32.547 [main            ] INFO  AprLifecycleListener   - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+24-12-14.20:43:32.547 [main            ] INFO  AprLifecycleListener   - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+24-12-14.20:43:32.547 [main            ] INFO  AprLifecycleListener   - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+24-12-14.20:43:32.566 [main            ] INFO  AprLifecycleListener   - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+24-12-14.20:43:32.575 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8080"]
+24-12-14.20:43:32.575 [main            ] INFO  StandardService        - Starting service [Tomcat]
+24-12-14.20:43:32.575 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+24-12-14.20:43:32.736 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+24-12-14.20:43:32.737 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1151 ms
+24-12-14.20:43:33.128 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8080"]
+24-12-14.20:43:33.154 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8080 (http) with context path ''
+24-12-14.20:43:33.166 [main            ] INFO  Application            - Started Application in 2.404 seconds (JVM running for 4.972)
+24-12-14.20:44:16.639 [http-nio-8080-exec-1] INFO  [/]                    - Initializing Spring DispatcherServlet 'dispatcherServlet'
+24-12-14.20:44:16.639 [http-nio-8080-exec-1] INFO  DispatcherServlet      - Initializing Servlet 'dispatcherServlet'
+24-12-14.20:44:16.640 [http-nio-8080-exec-1] INFO  DispatcherServlet      - Completed initialization in 1 ms
+24-12-14.20:45:41.373 [main            ] INFO  Application            - Starting Application using Java 1.8.0_181 on yangzihesLaptop with PID 44748 (D:\jdk8\springboot-test\test-web\target\classes started by yangz in D:\jdk8\springboot-test)
+24-12-14.20:45:41.377 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+24-12-14.20:45:42.833 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8080 (http)
+24-12-14.20:45:42.835 [main            ] INFO  AprLifecycleListener   - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+24-12-14.20:45:42.835 [main            ] INFO  AprLifecycleListener   - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+24-12-14.20:45:42.835 [main            ] INFO  AprLifecycleListener   - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+24-12-14.20:45:42.847 [main            ] INFO  AprLifecycleListener   - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+24-12-14.20:45:42.861 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8080"]
+24-12-14.20:45:42.862 [main            ] INFO  StandardService        - Starting service [Tomcat]
+24-12-14.20:45:42.862 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+24-12-14.20:45:43.143 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+24-12-14.20:45:43.144 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1701 ms
+24-12-14.20:45:43.642 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8080"]
+24-12-14.20:45:43.672 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8080 (http) with context path ''
+24-12-14.20:45:43.688 [main            ] INFO  Application            - Started Application in 3.095 seconds (JVM running for 5.644)
+24-12-14.20:47:42.439 [http-nio-8080-exec-1] INFO  [/]                    - Initializing Spring DispatcherServlet 'dispatcherServlet'
+24-12-14.20:47:42.439 [http-nio-8080-exec-1] INFO  DispatcherServlet      - Initializing Servlet 'dispatcherServlet'
+24-12-14.20:47:42.439 [http-nio-8080-exec-1] INFO  DispatcherServlet      - Completed initialization in 0 ms
+24-12-14.20:49:20.726 [main            ] INFO  Application            - Starting Application using Java 1.8.0_181 on yangzihesLaptop with PID 18956 (D:\jdk8\springboot-test\test-web\target\classes started by yangz in D:\jdk8\springboot-test)
+24-12-14.20:49:20.729 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+24-12-14.20:49:21.653 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8080 (http)
+24-12-14.20:49:21.654 [main            ] INFO  AprLifecycleListener   - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+24-12-14.20:49:21.654 [main            ] INFO  AprLifecycleListener   - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+24-12-14.20:49:21.654 [main            ] INFO  AprLifecycleListener   - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+24-12-14.20:49:21.661 [main            ] INFO  AprLifecycleListener   - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+24-12-14.20:49:21.667 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8080"]
+24-12-14.20:49:21.668 [main            ] INFO  StandardService        - Starting service [Tomcat]
+24-12-14.20:49:21.668 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+24-12-14.20:49:21.824 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+24-12-14.20:49:21.824 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1043 ms
+24-12-14.20:49:22.162 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8080"]
+24-12-14.20:49:22.185 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8080 (http) with context path ''
+24-12-14.20:49:22.200 [main            ] INFO  Application            - Started Application in 2.106 seconds (JVM running for 4.52)
+24-12-14.20:49:27.270 [http-nio-8080-exec-1] INFO  [/]                    - Initializing Spring DispatcherServlet 'dispatcherServlet'
+24-12-14.20:49:27.270 [http-nio-8080-exec-1] INFO  DispatcherServlet      - Initializing Servlet 'dispatcherServlet'
+24-12-14.20:49:27.270 [http-nio-8080-exec-1] INFO  DispatcherServlet      - Completed initialization in 0 ms
