@@ -17,7 +17,7 @@ public class MyService {
     private final MyBean myBean2;
 
     //todo 这里如果有多个类型相同的bean,会触发@Qualifier来指明不同的bean
-    public MyService(@Qualifier("bean1") MyBean bean1, MyBean bean2 ) {
+    public MyService(@Qualifier("bean1") MyBean bean1,@Qualifier("bean2") MyBean bean2 ) {
         this.myBean1 = bean1;
         log.info("注入的是:{}",bean1.getName());
         this.myBean2 = bean2;

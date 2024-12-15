@@ -4,7 +4,12 @@ server:
 ltzf:
   sdk:
     config:
-      enabled: false
+      enabled: true
+person:
+  sdk:
+    name: yangbo
+    address: shandong
+    age: 18
 # 日志
 logging:
   level:
